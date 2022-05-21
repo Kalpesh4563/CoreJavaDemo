@@ -1,1 +1,1 @@
-# CoreJavaDemo
+# Core Java Program
